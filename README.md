@@ -2,7 +2,9 @@
 A Python-based tool to summarize YouTube videos using the YouTube Transcript API and Hugging Face Transformers. This Colab-friendly notebook supports multiple languages, auto-chunks lengthy transcripts, and provides downloadable summaries for easy reading. Ideal for quick comprehension of long educational or informative videos.
 
 
-🔗 **[Open in Google Colab](https://colab.research.google.com/drive/1INuMkIRm5JCt_bQ9R5Oul0RVx80wvG-l)**
+## 🔗 Colab Notebook
+
+[Open in Google Colab](https://colab.research.google.com/drive/13QDwu95x1kKMpFQ1851oPt38NP2eHqTI)
 
 ---
 
